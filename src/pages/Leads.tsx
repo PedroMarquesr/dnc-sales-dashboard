@@ -1,5 +1,10 @@
 import styled from 'styled-components'
 
 export default function Leads() {
-  return <></>
+  return (
+    <>
+      <h1>Leads</h1>
+      <p>Leads</p>
+    </>
+  )
 }
